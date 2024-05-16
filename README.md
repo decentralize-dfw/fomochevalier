@@ -1,5 +1,5 @@
 # hatch usable vrm avatars
-hyperfy.io/hatch virtual theater experience on webxr vr, designed by DFW
+hyperfy.io/hatch virtual theater experience on webxr vr, designed by DFW, for VIFF81
 
 https://raw.githubusercontent.com/decentralize-dfw/hatch/main/AKIRA.vrm
 
