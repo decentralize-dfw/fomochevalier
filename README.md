@@ -1,6 +1,5 @@
 # hatch usable vrm avatars
-
-https://raw.githubusercontent.com/decentralize-dfw/hatch/main/FOMO_CHEVALIER_dfw.vrm
+hyperfy.io/hatch virtual theater experience on webxr vr, designed by DFW
 
 https://raw.githubusercontent.com/decentralize-dfw/hatch/main/AKIRA.vrm
 
